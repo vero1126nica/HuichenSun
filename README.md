@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <title>Huichen Sun Resume</title>
@@ -15,7 +14,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <body>
 
 
-<!-- Hidden Sidebar (reveals when clicked on menu icon)-->
 <nav class="w3-sidebar w3-black w3-animate-right w3-xxlarge" style="display:none;padding-top:150px;right:0;z-index:2" id="mySidebar">
   <a href="javascript:void(0)" onclick="closeNav()" class="w3-button w3-black w3-xxxlarge w3-display-topright" style="padding:0 12px;">
     <i class="fa fa-remove"></i>
@@ -28,33 +26,33 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </div>
 </nav>
 
-<!-- Page Content -->
+
 <div class="w3-main w3-padding-large" style="margin-left:5%">
 
-  <!-- Menu icon to open sidebar -->
+
   <span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;" onclick="openNav()"><i class="fa fa-bars"></i></span>
 
-  <!-- Header -->
+
   <header class="w3-container w3-center" style="padding:128px 16px" id="home">
     <h1 class="w3-jumbo"><b>Huichen Sun</b></h1>
   </header>
 
-  <!-- My education Section -->
+ 
   <div class="w3-padding-32 w3-content" id="education">
     <h2 class="w3-text-grey">Education</h2>
     <hr class="w3-opacity">
 
-    <!-- Grid for education -->
+ 
 	 <h2><strong>Major:</strong> Computer Information Systems <br /></h2>
                 <p>University of Tulsa, Tulsa, OK<br /><br />
 				Bachelor of Science in Business Administration, <span><span>Expected Dec 2019 <br />
 				</p>
-    <!-- End education grid -->
+
     </div>
-  <!-- End  My education Section -->
+
   </div>
 
-  <!-- Skills Section -->
+
   <div class="w3-content w3-justify w3-text-grey w3-padding-32" id="skills">
     <h2>My Skills</h2>
     <hr class="w3-opacity">
@@ -84,7 +82,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </div>
 
 
-    <!-- Description -->
+
     <h3 class="w3-padding-24">Description</h3>
     <p><span class="w3-large w3-text-black w3-margin-right">GitHub Pages</span></p>
     <p>I completed the GitHub learning labs by the training of "First Day on GitHub" and "First Week on GitHub". I got the introduction of 
@@ -117,10 +115,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
     
-  <!-- End Skills Section -->
+
   </div>
 
-  <!-- Contact Section -->
+  
   <div class="w3-padding-32 w3-content w3-text-grey" id="contact" style="margin-bottom:64px">
     <h2>Contact Me</h2>
     <hr class="w3-opacity">
@@ -144,10 +142,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         </button>
       </p>
     </form>
-  <!-- End Contact Section -->
+
   </div>  
   
-  <!-- Footer -->
+
   <footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin:-24px">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
     <i class="fa fa-instagram w3-hover-opacity"></i>
@@ -155,10 +153,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-pinterest-p w3-hover-opacity"></i>
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <!-- End footer -->
+
   </footer>
   
-<!-- END PAGE CONTENT -->
+
 </div>
 
 <script>
