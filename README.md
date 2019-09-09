@@ -1,5 +1,4 @@
-# HuichenSun
-Huichen Sun's resume
+
 <!DOCTYPE html>
 <html>
 <title>Huichen Sun Resume</title>
